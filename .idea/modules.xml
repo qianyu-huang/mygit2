@@ -4,5 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/mygit2.iml" filepath="$PROJECT_DIR$/.idea/mygit2.iml" />
     </modules>
+    <modules>123</modules>
   </component>
 </project>
